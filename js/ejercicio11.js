@@ -1,0 +1,1 @@
+//funcion que lea las calficacione de un alumno y con un alert decir si fueron aprobadas o no
